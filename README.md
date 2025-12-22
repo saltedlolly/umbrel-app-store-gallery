@@ -1,4 +1,4 @@
-# Olly's Umbrel App Store - Image Gallery 🖼️
+# Olly's Umbrel App Store - Image Gallery 🌠
 
 This repository stores **all image assets** for the apps from [Olly's Umbrel App Store](https://github.com/saltedlolly/umbrel-app-store).
 
